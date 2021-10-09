@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommanifest>
+<!--Add your custom branches here  -->
+<project name="csrp_dmf" revision="review_RQ-162759"/>
+<project name="csrp_meta-csrp" revision="review_RQ-162759"/>
+</custommanifest>
